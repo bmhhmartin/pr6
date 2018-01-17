@@ -1,0 +1,466 @@
+@media(min-width:768px) and (max-width:991px){
+    #menu .container .logo_part img{
+       margin-top: 30px;
+       margin-left: 0px;
+    }
+    .menu_bar ul li{
+        float: left;
+    }
+    .menu_bar ul li a{
+        padding-top: 25px;
+        margin-left: 24px;
+        font-family: montserrat_regular;
+        font-size: 13px;
+        color: #143e6e;
+        border-bottom: 4px solid rgba(14, 97, 192, 0);
+        display: block;
+    }
+    .menu_bar ul li .active{
+        color: #aaaaaa;
+        border-bottom: 4px solid rgba(14, 97, 192, 1);
+    }
+    .menu_bar ul li a:hover{
+        text-decoration: none;
+        background: none;
+        color: #aaaaaa;
+        border-bottom: 4px solid rgba(14, 97, 192, 1);
+    }
+    /*----------------------------nav part ends----------------------------*/
+    .carousel-inner{
+    position: relative;
+    }
+    #banner .container h3{
+        position: absolute;
+        margin-top: -220px;
+        font-weight: 300;
+        font-size: 25px;
+    }
+    #banner .container h2{
+        position: absolute;
+        margin-top: -200px;
+        font-size: 30px;
+    }
+    #banner .container p{
+        position: absolute;
+        margin-top: -170px;
+        font-size: 12px;
+    }
+    #banner .container a{
+        position: absolute;
+        margin-top: -80px;
+        padding: 10px 22px; 
+        font-size: 12px;
+    }
+    #banner .container a:hover{
+        background: #193f6d;
+        transition: all linear .4s;
+    }
+    /*----------------------------banner part ends----------------------------*/
+    #content .container .row .one{
+        height: 352px;
+    }
+    #content .container .row .one i{
+        margin-top: 10px;
+        font-size: 30px;
+        height: 100px;
+        width: 100px;
+        line-height: 100px;
+    }
+    #content .container .row .one h3{
+        font-size: 15px;
+        padding-top: 27px;
+        padding-bottom: 15px;
+    }
+    #content .container  .row .one p{
+        font-size: 12px;
+        font-weight: 400;
+        padding-bottom: 24px;
+    }
+    #content .container  .row .one a{
+        padding: 10px 18px; 
+        font-size: 9px;
+        margin-bottom: 70px;
+    }
+    /*-------------content part ends-----------------*/
+    #explore{
+        height: 360px;
+    }
+    #explore .container .row .explore_text h3{
+        font-size: 25px;
+        font-weight: 700;
+        padding: 50px 0px 15px;
+    }
+    #explore .container .row .explore_text h4{
+        padding-bottom: 15px;
+        font-size: 18px;
+
+    }
+    #explore .container .row .explore_text h5{
+        font-size: 11px;
+    }
+    #explore .container .row .explore_text p{
+        font-size: 11px;
+        padding-top: 10px;
+        margin-bottom: 17px;
+    }
+    #explore .container .row .explore_text a{
+        padding: 15px 25px;
+        font-size: 10px;
+        margin-left: 70px;
+    }
+    #explore .container .row .explore_text a:hover{
+        background: #193f6d;
+    }
+    #explore .container .row .explore_text  .green{
+        padding: 15px 25px;
+        font-size: 10px;
+        margin-left: 15px;
+    }
+    #explore .container .row .picture img{
+        padding-top: 24px;
+        height: 350px;
+        width: 350px;
+    }
+    /*-------------explore part ends-----------------*/
+    #background .container .row .mobile img{
+        width: 200px;
+        padding: 40px 0px 67px 0px;
+    }
+    #background .container .row .background_text h3{
+        padding-top: 30px;
+        padding-bottom: 18px;
+        font-size: 25px;
+    }
+    #background .container .row .background_text h4{
+        padding-bottom: 30px;
+    }
+    #background ul li{
+        margin-top: 10px;
+    }
+    #background ul li a{
+        color: #333333;
+        font-size: 12px;
+        display: block;
+        position: relative;
+        padding-left: 65px;
+        border-top-left-radius: 30px;
+        border-bottom-left-radius: 30px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    #background ul li h4{
+        background: #e3e9ec;
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        text-align: center;
+        line-height: 50px;
+        font-size: 11px;
+        color: #194170;
+        position: absolute;
+        left: -1px;
+        top: 0px;
+    }
+   /*-------------background part ends-----------------*/
+    #inverted{
+        height: 420px;
+    }
+     #inverted .inverted_text h3{
+        font-size: 30px;
+        padding: 20px 0px 10px;
+    }
+    #inverted .inverted_text h4{
+        font-size: 18px;
+        padding-bottom: 11px;
+    }
+    #inverted .inverted_text h5{
+        font-size: 13px;
+        padding-bottom: 20px;
+    }
+    #inverted .inverted_text p{
+        font-size: 13px;
+        line-height: 14px;
+        padding-bottom: 60px;
+    }
+    #inverted .inverted_text a{
+        padding: 10px 17px;
+        border-radius: 10px;
+        font-size: 11px;
+    }
+    #inverted .inverted_text a:hover{
+        background: #193f6d; 
+    }
+    #inverted .inverted_text .green{
+        padding: 10px 17px;
+        font-size: 11px;
+        margin-left: 20px;
+    }
+    
+    /*-------------inverted part ends-----------------*/
+    #team .member{
+        height: 450px;
+    }
+    #team .member img{
+        width: 150px;
+        height: 150px;
+    }
+    #team .member h5{
+        font-size: 20px;
+        font-weight: 600;
+        padding: 15px 0px 8px;
+    }
+    #team .member h6{
+        font-size: 13px;
+        padding: 0px 0px 15px;
+    }
+    #team .member h2{
+        font-size: 14px;
+        padding: 0px 0px 21px;
+    }
+    /*-------------team part ends-----------------*/
+    #twitter{
+        background: #00aced;
+        position: relative;
+    }
+    #twitter .container .message i{
+        font-size: 18px;
+        border: 3px solid #fff;
+        height: 30px;
+        width: 30px;
+        border-radius: 50%;
+        line-height: 30px;
+        text-align: center;
+        margin-top: 8px;
+    }
+    #twitter .container .message span{
+        padding-left: 5px;
+        top: 0px;
+        position: absolute;
+        line-height: 44px;
+        font-size: 12px;
+    }
+    #twitter .container .message h3{
+        font-size: 9px;
+        line-height: 44px;
+    }
+    /*-------------twitter part ends-----------------*/
+    #footer .top_footer_second{
+        height: 305px;
+    }
+    #footer .top_footer_second h3{
+        padding: 60px 0px 28px;
+        font-size: 18px;
+        font-weight: 600;
+    }
+    #credit{
+        height: 25px;
+    } 
+    /*-------------copyright part ends-----------------*/
+}
+
+/*---------------------------------------------Tab part ends--------------------------------------------*/
+
+@media(min-width:320px) and (max-width:767px){
+    #menu .container .logo_part img{
+        margin-top: 20px;
+        width: 150px;
+    }
+    .menu_bar ul li{
+        margin-left: -50px;
+        float: none;
+    }
+    .menu_bar ul li a{
+        font-size: 14px;
+        border-bottom: 0px;
+        line-height: 25px;
+        text-align: center;
+    }
+    .menu_bar ul li .active{
+        color: #aaaaaa;
+        border-bottom: none;
+    }
+    .menu_bar ul li a:hover{
+        text-decoration: none;
+        background: #143e6e;
+        color: #aaaaaa;
+        border-bottom: 0px;
+    }
+    /*----------------------------nav part ends----------------------------*/
+    #content .container .row .one{
+        height: 280px;
+    }
+    #content .container .row .one i{
+        margin-top: 10px;
+        font-size: 20px;
+        height: 80px;
+        width: 80px;
+        line-height: 80px;
+    }
+    #content .container .row .one h3{
+        font-size: 16px;
+        padding-top: 20px;
+        padding-bottom: 10px;
+    }
+    #content .container  .row .one p{
+        font-size: 14px;
+        font-weight: 400;
+        padding-bottom: 24px;
+    }
+    #content .container  .row .one a{
+        padding: 8px 15px;
+        border-radius: 15px; 
+        font-size: 9px;
+        margin-bottom: 70px;
+    }
+    /*-------------content part ends-----------------*/
+    #explore{
+        height: 526px;
+    }
+    #explore .container .row .explore_text h3{
+        font-size: 20px;
+        padding: 39px 0px 10px;
+    }
+    #explore .container .row .explore_text h4{
+        padding-bottom: 9px;
+        font-size: 12px;
+    }
+    #explore .container .row .explore_text h5{
+        font-size: 9px;
+    }
+    #explore .container .row .explore_text p{
+        font-size: 9px;
+        padding-top: 15px;
+        margin-bottom: 17px;
+    }
+    #explore .container .row .explore_text a{
+        padding: 10px 17px;
+        border-radius: 15px;
+        font-size: 7px;
+        margin-left: 70px;
+    }
+    #explore .container .row .explore_text a:hover{
+        background: #193f6d;
+    }
+    #explore .container .row .explore_text  .green{
+        padding: 10px 17px;
+        border-radius: 15px;
+        font-size: 7px;
+        margin-left: 10px;
+    }
+    #explore .container .row .picture img{
+        padding-top: 24px;
+        height: 300px;
+        width: 300px;
+    }
+    /*-------------explore part ends-----------------*/
+    #background .container .row .mobile img{
+        width: 200px;
+        height: 400px;
+        padding: 10px 0px 10px 0px;
+        margin-left: 50px;
+    }
+    #background .container .row .background_text h3{
+        padding-top: 30px;
+        padding-bottom: 18px;
+        font-size: 25px;
+    }
+    #background .container .row .background_text h5{
+        padding-bottom: 9px;
+        font-size: 15px;
+    }
+    #background .container .row .background_text ul li a{
+        font-size: 10px;
+    }
+    /*----------------------------background part ends----------------------------*/
+    #inverted{
+        height: 270px;
+    }
+     #inverted .inverted_text h3{
+        font-size: 15px;
+        padding: 20px 0px 10px;
+    }
+    #inverted .inverted_text h4{
+        font-size: 10px;
+        padding-bottom: 11px;
+    }
+    #inverted .inverted_text h5{
+        font-size: 8px;
+        padding-bottom: 10px;
+    }
+    #inverted .inverted_text p{
+        font-size: 8px;
+        line-height: 8px;
+        padding-bottom: 20px;
+    }
+    #inverted .inverted_text a{
+        padding: 5px 8px;
+        border-radius: 10px;
+        font-size: 7px;
+    }
+    #inverted .inverted_text .green{
+        padding: 5px 8px;
+        border-radius: 15px;
+        font-size: 7px;
+        margin-left: 10px;
+    }
+    /*----------------------------inverted part ends----------------------------*/
+    #team .top_text h3{
+        font-size: 20px;
+        padding: 10px 0px 10px;
+    }
+    #team .top_text h4{
+        padding-bottom: 15px;
+        font-size: 15px;
+    }
+    /*----------------------------team part ends----------------------------*/
+   #twitter{
+    position: relative;
+    }
+    #twitter .container .message i{
+        font-size: 15px;
+        border: 2px solid #fff;
+        height: 30px;
+        width: 30px;
+        border-radius: 50%;
+        line-height: 30px;
+        text-align: center;
+        margin-top: 4px;
+        margin-bottom: 4px;
+        margin-left: 100px;
+    }
+    #twitter .container .message span{
+        padding-left: 140px;
+        top: 0px;
+        position: absolute;
+        line-height: 44px;
+        font-size: 7px;
+    }
+    #twitter .container .message h3{
+        font-size: 4px;
+        line-height: 44px;
+    }
+    /*----------------------------twitter part ends----------------------------*/
+    #footer .top_footer_second h3{
+        padding: 30px 0px 18px;
+        font-size: 35px;
+    }
+    #copyright .container p{
+        line-height: 50px;
+        font-size: 10px;
+    }
+    #copyright .container ul li a{
+        text-align: center;
+        padding-left: 10px;
+        line-height: 30px;
+        font-size: 12px;
+    }
+    #credit{
+        height: 15px;
+    }  
+    /*----------------------------copyright part ends----------------------------*/
+    
+    
+    
+}
+
+/*----------------------------mobile part ends----------------------------*/
